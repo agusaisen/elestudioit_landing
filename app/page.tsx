@@ -50,9 +50,7 @@ export default function Home() {
 
             <div className="pt-4">
               <a
-                href="https://wa.me/542994768136?text=Hola%20elestudio.it"
-                target="_blank"
-                rel="noopener noreferrer"
+                href="mailto:info@elestudio.it"
                 className="inline-block bg-gradient-to-r from-blue-600 to-purple-600 hover:from-blue-700 hover:to-purple-700 text-white rounded-full px-8 py-4 font-medium text-lg transition-all duration-200 hover:shadow-lg"
               >
                 Contáctanos
