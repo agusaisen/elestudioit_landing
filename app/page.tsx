@@ -30,13 +30,13 @@ export default function Home() {
           <div className="space-y-6">
             <div className="inline-flex items-center px-3 py-1 rounded-full border border-purple-500/40 bg-purple-500/10 text-purple-300 text-sm">
               <Sparkles className="h-4 w-4 mr-2" />
-              <span>Sitio en construcción</span>
+              <span>Iteración en desarrollo</span>
             </div>
 
             <h2 className="text-2xl md:text-4xl font-light">
-              Estamos creando algo{" "}
+              Estamos {" "}
               <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-purple-600 font-medium">
-                increíble
+                evolucionando
               </span>
             </h2>
 
