@@ -56,6 +56,13 @@ export default function Home() {
                 Contáctanos
               </a>
             </div>
+            <p className="text-gray-400 text-lg md:text-xl max-w-lg mx-auto">
+              Mientras tanto, te invitamos a que veas nuestros proyectos destacados {" "}                   
+           </p>
+             <p className="text-gray-400 text-lg md:text-xl max-w-lg mx-auto">
+  <span className="text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-purple-600 font-medium">
+               <a href="https://drive.google.com/file/d/1ti5l9yrOnFj0siWqwqsA9djvrMor5Fc0/view?usp=sharing" target="blank_"> haciendo click acá</a>
+              </span> </p>
           </div>
 
           {/* Footer */}
