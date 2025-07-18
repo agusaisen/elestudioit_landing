@@ -1,7 +1,6 @@
 {
   "name": "elestudio.it",
   "version": "0.1.0",
-  "private": true,
   "dependencies": {
     "@remix-run/react": "latest",
     "@sveltejs/kit": "latest",
